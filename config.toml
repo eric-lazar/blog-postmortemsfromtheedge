@@ -1,4 +1,4 @@
-baseURL = 'http://www.postmortemsfromtheedge/'
+baseURL = 'http://www.postmortemsfromtheedge.com/'
 languageCode = 'en-us'
 title = 'Post Mortems from the Edge'
 theme = "ananke"
