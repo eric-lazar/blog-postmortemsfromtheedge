@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Post Mortems from the Edge</title>
+    <link>https://www.postmortemsfromtheedge.com/authors/</link>
+    <description>Recent content in Authors on Post Mortems from the Edge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Feb 2023 14:14:54 -0500</lastBuildDate><atom:link href="https://www.postmortemsfromtheedge.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eric Lazar</title>
+      <link>https://www.postmortemsfromtheedge.com/authors/eric-lazar/</link>
+      <pubDate>Sun, 26 Feb 2023 14:14:54 -0500</pubDate>
+      
+      <guid>https://www.postmortemsfromtheedge.com/authors/eric-lazar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.postmortemsfromtheedge.com/authors/author-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.postmortemsfromtheedge.com/authors/author-1/</guid>
+      <description>Eric is a technologist from Northeast Ohio. He has backgrounds in DevOps, SRE/APM, Kubernetes and general Windows Server and Web Application support.</description>
+    </item>
+    
+  </channel>
+</rss>
