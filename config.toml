@@ -8,4 +8,12 @@ theme = "ananke"
   tag = "tags"
   category = "categories"
 
-  
+
+[[params.ananke_socials]]
+name = "mastodon"
+url = "https://hachyderm.io/@elazaroh"
+
+[[menu.main]]
+  name = "About"
+  identifier = "about"
+  url = "/about/"
