@@ -13,4 +13,8 @@ The Query formula then should look like this:
 
 ```( Object is Windows Server 2016 and above Logical Disk AND ( Device Name Equals C: ) AND True )```
 
+<br>
+For the Alert View, choose the dynamic group you created earlier.   You can also pick the object on the left to just be disks for a more efficient alert filter
+
+
 ![Scenario 1: Across columns](/scom-c-disk-alerts.png)
