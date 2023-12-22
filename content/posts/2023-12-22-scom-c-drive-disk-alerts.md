@@ -7,4 +7,4 @@ authors:
 
 
 
-![Scenario 1: Across columns](/static/scom-c-disk-alerts.png)
+![Scenario 1: Across columns](/scom-c-disk-alerts.png)
