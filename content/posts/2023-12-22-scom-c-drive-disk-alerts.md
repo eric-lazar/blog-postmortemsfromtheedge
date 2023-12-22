@@ -5,6 +5,12 @@ authors:
   - Eric Lazar
 ---
 
+Create a dynamic group of Logical Disk Objects like this:
 
+![Scenario 1: Across columns](/dynamic-query-disk.png)
+
+The Query formula then should look like this:
+
+```( Object is Windows Server 2016 and above Logical Disk AND ( Device Name Equals C: ) AND True )```
 
 ![Scenario 1: Across columns](/scom-c-disk-alerts.png)

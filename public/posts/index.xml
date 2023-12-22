@@ -20,7 +20,7 @@
       <link>https://www.postmortemsfromtheedge.com/posts/2023-12-22-scom-c-drive-disk-alerts/</link>
       <pubDate>Sun, 26 Feb 2023 14:14:54 -0500</pubDate>
       <guid>https://www.postmortemsfromtheedge.com/posts/2023-12-22-scom-c-drive-disk-alerts/</guid>
-      <description></description>
+      <description>Create a dynamic group of Logical Disk Objects like this:&#xA;The Query formula then should look like this:&#xA;( Object is Windows Server 2016 and above Logical Disk AND ( Device Name Equals C: ) AND True )</description>
     </item>
   </channel>
 </rss>
